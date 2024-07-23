@@ -69,5 +69,15 @@ namespace StockYearly.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Recherche une ressource localisée de type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sign_up_form_button_graphic_concept {
+            get {
+                object obj = ResourceManager.GetObject("sign-up-form-button-graphic-concept", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
